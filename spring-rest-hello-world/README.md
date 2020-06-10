@@ -5,6 +5,7 @@ Article link : https://www.mkyong.com/spring-boot/spring-rest-hello-world-exampl
 ## 1. How to start
 ```
 $ git clone https://github.com/murugandineshj2ee/gcpdemo.git
+$ cd gcpdemo
 $ cd spring-rest-hello-world
 $ mvn spring-boot:run
 
