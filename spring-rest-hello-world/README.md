@@ -11,3 +11,11 @@ $ mvn spring-boot:run
 
 $ curl -v localhost:8080/books
 ```
+//dockerize
+
+// create a docker image
+$ sudo docker build -t spring-boot:1.0 .
+// run it
+$ sudo docker run -d -p 8080:8080 -t spring-boot:1.0
+
+  access http://localhost:8080
