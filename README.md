@@ -1,5 +1,5 @@
 # gcpdemo
-GCP Demo with Micro Service , Docker and Cluster 
+GCP Demo with Micro Service , Docker and Cluster in Ubuntu server 
 
 # gcpdemo/spring-rest-hello-world/
        - sample rest service
