@@ -39,3 +39,4 @@ Run Docker: sudo docker run -d -p 8080:8080 -t spring-boot:1.0
 
 Find Docker Image: docker images / docker ps
 
+Run User Data Mutiple time : https://aws.amazon.com/premiumsupport/knowledge-center/execute-user-data-ec2/
